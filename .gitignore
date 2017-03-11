@@ -5,14 +5,8 @@
 node_modules
 debug.log
 
-# TS after compilation files
-app.component.js
-app.component.js.map
-app.module.js
-app.module.js.map
-main.js.map
-main.js
-welcome.component.js
-welcome.component.js.map
+# TS after compilation file
+*.js
+*.js.map
 index.d.TS
 typings.json
