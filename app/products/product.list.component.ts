@@ -11,7 +11,7 @@ export class ProductListComponent implements OnInit{
     imageWidth:number = 50;
     imageMargin:number = 2;
     imageVisible:boolean = false;
-    filter:string = 'cart';
+    filter:string='cart';
     products:IProduct[] = [
     {
         "productId": 1,
